@@ -93,18 +93,16 @@ The dashboard (`Powerbi/Superstore_Sales_dashboard.pbix`) includes two main view
 - Best and worst performing products
 - Sub-category profitability
 
-
+![Salesstore_Overview](DashboardImages/Salesstore_Overview.png)
+![Customer_Product_insight](DashboardImages/Customer%20and%20Product%20insight.png)
 
 ---
 
 ## 🔍 Key Insights
 
-> Replace these with your actual findings.
 
 - Technology generates the highest profit, while some Furniture sub-categories (e.g., Tables) run at a loss.
-- High discounts are strongly linked to reduced or negative profit.
-- Sales peak in the final quarter each year.
-- A small group of customers contributes a large share of total revenue.
+  
 
 ---
 

@@ -1,4 +1,4 @@
-# 🛒 Superstore Sales Analysis
+# 🛒 Retail Performance and Profitability Analytics
 
 An end-to-end data analytics project that explores Superstore sales data using **SQL** and **Power BI** to uncover insights on sales, profit, customers, and products.
 

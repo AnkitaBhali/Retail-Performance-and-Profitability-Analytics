@@ -93,7 +93,7 @@ The dashboard (`Powerbi/Superstore_Sales_dashboard.pbix`) includes two main view
 - Best and worst performing products
 - Sub-category profitability
 
-![superstore_sales_overview](DashboardImages/superstore%20sales%20overview.png")
+![superstore](DashboardImages/superstore.png)
 ![Customer_Product_insight](DashboardImages/Customer%20and%20Product%20insight.png)
 
 ---

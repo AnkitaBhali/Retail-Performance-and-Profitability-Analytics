@@ -98,13 +98,7 @@ The dashboard (`Powerbi/Superstore_Sales_dashboard.pbix`) includes two main view
 
 ---
 
-## 🔍 Key Insights
 
-
-- Technology generates the highest profit, while some Furniture sub-categories (e.g., Tables) run at a loss.
-  
-
----
 
 ## 🚀 How to Run This Project
 
